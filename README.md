@@ -1,1 +1,1 @@
-# is-your-birthday-palindrom
+# is-your-birthday-palindrome
